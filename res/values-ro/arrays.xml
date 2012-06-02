@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Alarmă setată peste mai puţin de 1 minut din acest moment.</item>
+        <item>Alarmă setată peste %1$s din acest moment.</item>
+        <item>Alarmă setată peste %2$s din acest moment.</item>
+        <item>Alarmă setată peste %1$s şi %2$s din acest moment.</item>
+        <item>Alarmă setată peste %3$s din acest moment.</item>
+        <item>Alarmă setată peste %1$s şi %3$s din acest moment.</item>
+        <item>Alarmă setată peste %2$s şi %3$s din acest moment.</item>
+        <item>Alarmă setată peste %1$s, %2$s şi %3$s din acest moment.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 de minute</item>
+        <item>25 de minute</item>
+        <item>30 de minute</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Dezactivat</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 de minute</item>
+        <item>25 de minute</item>
+        <item>30 de minute</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Niciunul</item>
+        <item>Amânaţi</item>
+        <item>Renunţaţi</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

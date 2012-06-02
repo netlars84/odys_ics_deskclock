@@ -1,0 +1,304 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: 2DEEGTHMadUl6xiUY7p/r7nA5/s=
+
+Name: res/anim/dim_instant.xml
+SHA1-Digest: 3xYYY2HXlBQxr3WX2oq1m4vWiiA=
+
+Name: res/drawable-mdpi/ic_dialog_time.png
+SHA1-Digest: ArwksG1QKf7i01wBW1gdKouGGdM=
+
+Name: res/layout/alarm_alert_fullscreen.xml
+SHA1-Digest: e9Z1BiZwKcYFrsV7DLFYZiIlPHQ=
+
+Name: res/layout-sw600dp/alarm_clock.xml
+SHA1-Digest: 0mDthlEBPNwiK+rMS2Ky7ZQR330=
+
+Name: res/drawable/btn_strip_trans_left.xml
+SHA1-Digest: kKfZKsY+6DcHrH7WUP4anIq2kAk=
+
+Name: res/drawable-mdpi/appwidget_clock_minute.png
+SHA1-Digest: wLWnqSrhk30U33byUFH1v/pIy0U=
+
+Name: res/layout/alarm_alert.xml
+SHA1-Digest: xqO+mncA+j9niQF1O1qEZg4P5E0=
+
+Name: res/mipmap-mdpi/ic_launcher_alarmclock.png
+SHA1-Digest: xwjXv7F5RMJSG68IIgkXorl2F0k=
+
+Name: res/menu-sw600dp/alarm_list_menu.xml
+SHA1-Digest: /Y59PytS+bX9g0OZHeype7lQOhk=
+
+Name: res/drawable-mdpi/btn_in_call_round_normal.png
+SHA1-Digest: X/IRe6xzFFv9BzwvSS+DL7oEtPE=
+
+Name: res/drawable-mdpi/ic_clock_strip_music.png
+SHA1-Digest: FRpzgXYQ7A6N/KJ29J7MOwGTHMM=
+
+Name: res/layout/desk_clock_weather.xml
+SHA1-Digest: wYZC3QP18wqI3BU8ldDFijOKj5g=
+
+Name: res/anim/undim_instant.xml
+SHA1-Digest: w85h/4L9w/vs1JvxOyNcFeDt4cs=
+
+Name: res/drawable-xlarge-mdpi/dialog.9.png
+SHA1-Digest: TSdxnBwFhOmBYfTc+TLSfIh8q0M=
+
+Name: res/drawable-xlarge-nodpi/background_protector.png
+SHA1-Digest: MhFPBs39UNOOnpmCwZq8w2QsaOg=
+
+Name: res/menu/context_menu.xml
+SHA1-Digest: YYCc19klfaw1WFb4VD7h4+Jv8dY=
+
+Name: res/raw/in_call_alarm.ogg
+SHA1-Digest: pePq9WNZHnSn874+dE46vwmnGYY=
+
+Name: res/mipmap-hdpi/ic_widget_analog_clock.png
+SHA1-Digest: cH5NLb7ekR4SKFSN6jkbP2FxpM8=
+
+Name: res/drawable-mdpi/ic_indicator_off.png
+SHA1-Digest: LKxhjcalM8yqqrC1iKPBn4hj3OA=
+
+Name: res/drawable-mdpi/ic_clock_alarm_off.png
+SHA1-Digest: 87Zf6lzST3BnR1KnlgdnF+iHCBc=
+
+Name: res/drawable-mdpi/ic_clock_add_alarm_selected.png
+SHA1-Digest: vUdhUxqiuBDY879sIcGg3vcH1JY=
+
+Name: res/drawable-mdpi/btn_strip_trans_left_selected.9.png
+SHA1-Digest: /7cTCt2qMyXSXbsyDQ89uFH1v64=
+
+Name: res/drawable-mdpi/btn_in_call_round_pressed.png
+SHA1-Digest: pN+DMd3fiCJRnvqKVGSgtMW33yY=
+
+Name: res/layout/alarm_time.xml
+SHA1-Digest: KnDcqpjPpNrWPjKN3i1DA0Vf+6I=
+
+Name: resources.arsc
+SHA1-Digest: VK+NDMtgYN3gx0ecX25F77msp3E=
+
+Name: res/anim/dim.xml
+SHA1-Digest: KXcDgpdw7FFmeJsrLBiTsl5MH5o=
+
+Name: res/drawable-mdpi/btn_in_call_round_disable.png
+SHA1-Digest: khvO/nsUwKHcp7OFIteOl+mF6PU=
+
+Name: res/drawable-mdpi/appwidget_clock_dial.png
+SHA1-Digest: AKWcPXsZJqEjOS9ZjuIepoqRyWY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: YqiJlQ+7+kkZkc6Fq5aFqTwTO/Q=
+
+Name: res/drawable-mdpi/ic_menu_alarms.png
+SHA1-Digest: uRBLeUu9szq58kcmzYTQTlzo0Z0=
+
+Name: res/drawable-mdpi/ic_clock_strip_desk_clock.png
+SHA1-Digest: TPHr6dxdXVLVwKQdTnmFZr5anU8=
+
+Name: res/drawable-mdpi/ic_setalarm_holo_dark.png
+SHA1-Digest: 6poZTJjCdnkWn/kyeZ/h7WWLx2M=
+
+Name: assets/fonts/Clockopia.ttf
+SHA1-Digest: tGPGJwoBruZZsc1eNpb5i9Gowxs=
+
+Name: res/drawable/indicator_bar_onoff.xml
+SHA1-Digest: iIB1hoO3PpOGgc7wFvxFcL86klg=
+
+Name: res/drawable/add_alarm.xml
+SHA1-Digest: WmRbMUXSkm4R1bWCqsIWF4jwI4k=
+
+Name: res/drawable-mdpi/ic_clock_brightness.png
+SHA1-Digest: N0aehTd69op5yXo6ZoK1YOt6VyA=
+
+Name: res/layout/desk_clock_battery.xml
+SHA1-Digest: biQH8cNuKHmpYcAy9yTxK16MS5Y=
+
+Name: res/layout/analog_appwidget.xml
+SHA1-Digest: 0Smmv768dlXiMm3vAr0ML20YXq0=
+
+Name: classes.dex
+SHA1-Digest: AcvspX45hXr+Cx5NoVih/a1ta0Y=
+
+Name: res/layout-sw600dp/desk_clock_saver.xml
+SHA1-Digest: nWtiUNRUCxbW3wJeP41P8hQ3fq0=
+
+Name: res/drawable-mdpi/ic_clock_alarm_selected.png
+SHA1-Digest: p0Q9NQKhqPnSTMzef/kTYC9za7s=
+
+Name: res/layout/alarm_label.xml
+SHA1-Digest: 4phlEV8xNuUN34rqq38TzAt1Tpo=
+
+Name: res/layout/desk_clock_saver.xml
+SHA1-Digest: 34NvTgw+vphQjQ4dEFQv3eMqEtU=
+
+Name: res/drawable-mdpi/alarm_alert_fullscreen_bg.9.png
+SHA1-Digest: RrWeC7BAvIZjDtW7OSiHTzEeGtg=
+
+Name: res/drawable-mdpi/btn_in_call_round_disable_focused.png
+SHA1-Digest: J/xYfdQpPy/X46Gvv5NPobrsbc4=
+
+Name: res/drawable-mdpi/ic_clock_strip_home.png
+SHA1-Digest: Ythtp7Eww5a8C0E9WNIDBmzH4hA=
+
+Name: res/drawable-mdpi/ic_clock_strip_alarm.png
+SHA1-Digest: VUe9snHMREdFgc/ZWNTZ9gzn3lk=
+
+Name: res/drawable-mdpi/ic_lock_idle_alarm_saver.png
+SHA1-Digest: Rc1GDCbMkb1bh73WJf5I4GFhH+s=
+
+Name: res/menu/alarm_list_menu.xml
+SHA1-Digest: FrPw6t36HFgMOQCZbwBZnZq/n2o=
+
+Name: res/layout/alarm_clock.xml
+SHA1-Digest: v4J7+UpARtMALRHWOgT28Z24M9o=
+
+Name: res/mipmap-xhdpi/ic_widget_analog_clock.png
+SHA1-Digest: sv2mPwkVPu/ZpDbTDPBmTlvK6rE=
+
+Name: res/drawable-mdpi/list_selector_background_pressed.9.png
+SHA1-Digest: 67TsjeTnQn0ryKuJ2STKQYhtG6M=
+
+Name: res/layout-sw600dp/alarm_alert_fullscreen.xml
+SHA1-Digest: E3wATA8+/hM06GoOUL8Mwgkl/ag=
+
+Name: res/raw/fallbackring.ogg
+SHA1-Digest: Bn7xym0vJj1ZsezLI+3BymuwE00=
+
+Name: res/layout/desk_clock_buttons.xml
+SHA1-Digest: F1l7cwZ/i3mgS1+7CAmc/pNYryE=
+
+Name: res/drawable-nodpi/preview.png
+SHA1-Digest: 8JAqvY02IUO8O6hZubSW0YImEY0=
+
+Name: res/drawable/btn_strip_trans_right.xml
+SHA1-Digest: jg+zbdZMiMrlmS+/MpUYOQOB8jY=
+
+Name: res/xml/settings.xml
+SHA1-Digest: uMwd1KFvCgHsD7dmZSI4oVQCeKA=
+
+Name: res/drawable-mdpi/appwidget_clock_hour.png
+SHA1-Digest: 2expTX/EbLXWDhVjd/rR5Ar4Q74=
+
+Name: res/layout/desk_clock.xml
+SHA1-Digest: 9rftGFyXhxwvsAF3oaTN5jq9DXA=
+
+Name: res/drawable-mdpi/btn_in_call_round_selected.png
+SHA1-Digest: d6xRZzrPodnjrQYryQyGSZfYaZM=
+
+Name: res/drawable-mdpi/ic_clock_alarm_on.png
+SHA1-Digest: dYoyu6MQ3z6QGQcXM7HUURWdGzo=
+
+Name: res/drawable-mdpi/ic_indicator_on.png
+SHA1-Digest: GErHPZK3CSdontl77aOm2nrIwRc=
+
+Name: res/drawable-mdpi/ic_menu_add.png
+SHA1-Digest: Hsw8+peZORwsPQVGmITd7rUVrZE=
+
+Name: res/drawable/btn_strip_trans_middle.xml
+SHA1-Digest: aKbIOD/18S6Valn8D2iXFeT94u0=
+
+Name: res/mipmap-mdpi/ic_widget_analog_clock.png
+SHA1-Digest: nMVVThVHuv+KNFdH4NitW8UYSUE=
+
+Name: res/drawable-sw600dp-mdpi/ic_clock_brightness.png
+SHA1-Digest: TpYzue3nNkXH2tNGtUkdy2Ttz5E=
+
+Name: res/layout-sw600dp/desk_clock_time_date.xml
+SHA1-Digest: HwPry1BzB6bCu4E/LJs5reQt/bk=
+
+Name: res/menu/desk_clock_menu.xml
+SHA1-Digest: AhlZClxHlAUNY6BrR43wNrtyOZc=
+
+Name: res/anim/undim.html
+SHA1-Digest: 9rXasdS4Q7wZjzp/t6osQjrdiMA=
+
+Name: res/drawable-mdpi/btn_strip_trans_right_pressed.9.png
+SHA1-Digest: ozTPTJUzVRQR/HVaYqj19azSVPE=
+
+Name: res/layout/desk_clock_time_date.xml
+SHA1-Digest: cHBywNZY8bBID2da3uljfV/4VwI=
+
+Name: res/drawable-mdpi/btn_strip_trans_middle_selected.9.png
+SHA1-Digest: iTAP0dLOjiaaKWkDNJ3BdXkHc5g=
+
+Name: res/drawable-mdpi/btn_strip_trans_middle_pressed.9.png
+SHA1-Digest: qOyve6OOFKZMusIW1eaXMh/fRk0=
+
+Name: res/drawable-mdpi/dialog.9.png
+SHA1-Digest: YeHsJcSVUU1NW5YosT2ti3u9V5o=
+
+Name: res/drawable-mdpi/ic_lock_idle_alarm.png
+SHA1-Digest: CvqErMswQCf9B4Fp1+K9VOozmJU=
+
+Name: res/drawable-mdpi/stat_notify_alarm.png
+SHA1-Digest: NnLYe4ujpPyNEN0yFc04SnH/whc=
+
+Name: res/drawable-mdpi/btn_strip_trans_middle_normal.9.png
+SHA1-Digest: /iK0Nzqp5/g99kaA3Lmkasivuhs=
+
+Name: res/drawable/clock_selector.xml
+SHA1-Digest: BQkdoTAcmvKdFxyBbzN58YgJq3Q=
+
+Name: res/drawable-mdpi/btn_strip_trans_right_normal.9.png
+SHA1-Digest: b/DHdxbRGaMZEEMYijhSWMBA41Q=
+
+Name: res/drawable-mdpi/divider_vertical_dark.9.png
+SHA1-Digest: s4iOQgy02D5m1fMKOoHZk3dwmbw=
+
+Name: res/drawable-mdpi/ic_clock_strip_gallery.png
+SHA1-Digest: DHWHIYk8dTqORPtzlwL5ua8r7+o=
+
+Name: res/drawable/indicator_clock_onoff.xml
+SHA1-Digest: P33RUtDDbsClLneDil4onmMI3n0=
+
+Name: res/drawable-mdpi/btn_strip_trans_left_normal.9.png
+SHA1-Digest: 0CTEf4F0iyhZSAjChMy+iFkySZ8=
+
+Name: res/layout/context_menu_header.xml
+SHA1-Digest: nItf63k7E5hgAGKzL72MzDGr9II=
+
+Name: res/mipmap-hdpi/ic_launcher_alarmclock.png
+SHA1-Digest: lUM5pNXoVUmKokU9cPzVe7U/Lsw=
+
+Name: res/xml/alarm_prefs.xml
+SHA1-Digest: dvPvWYalAWYi7/QyH16iqFVMijI=
+
+Name: res/drawable-mdpi/dialog_divider_horizontal_light.9.png
+SHA1-Digest: INupuP/VasCrtSEy5JrFQ8QcpmI=
+
+Name: res/drawable-mdpi/ic_lock_idle_alarm_saver_dim.png
+SHA1-Digest: 7DR3m0IkM5jUXOTykHUCvhhC2eM=
+
+Name: res/layout/set_alarm.xml
+SHA1-Digest: 5fhmnYnD/S4u1nX5qL822PiRh5U=
+
+Name: res/drawable-mdpi/btn_strip_trans_right_selected.9.png
+SHA1-Digest: ieksQ3gWtzWg+Ypt5zFg0xxeKJ0=
+
+Name: res/drawable-mdpi/btn_strip_trans_left_pressed.9.png
+SHA1-Digest: IUQJuzYi1Q0XwJ7XZkzh1fcpxOI=
+
+Name: res/drawable-mdpi/ic_clock_add_alarm.png
+SHA1-Digest: KvWx+v0RQ2WJWa/BeGXB43rQ+ws=
+
+Name: res/xml/analog_appwidget.xml
+SHA1-Digest: t7H/yGXJet4+qguZiL6wBxDtyy0=
+
+Name: res/drawable-mdpi/ic_round_brightness.png
+SHA1-Digest: csxzUMyscO0lCQyyPaMD9d/njpQ=
+
+Name: res/drawable-mdpi/ic_menu_clock_face.png
+SHA1-Digest: DfymrtIW3QrhxjvntyAOCPzOgYk=
+
+Name: res/drawable-mdpi/ic_menu_desk_clock.png
+SHA1-Digest: EUpQMOmkQ8zZRGTbO2ttBrNQl7Y=
+
+Name: res/mipmap-xhdpi/ic_launcher_alarmclock.png
+SHA1-Digest: aMv9YblwoYM6otRbT8U4Po+tZjw=
+
+Name: res/layout-sw600dp/desk_clock.xml
+SHA1-Digest: MHCfSZp2/7D6bbAsGndOtRS3egc=
+
+Name: res/drawable/incall_round_button.xml
+SHA1-Digest: We2yfxoZJFawYxHHInyoEP+D1k0=
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>"ማንቂያ ከአሁን ወዲያ ከ1 ደቂቃ በታች  የተዘጋጀ ነው፡፡"</item>
+        <item>" ማንቂያ ከአሁን ጀምሮ ለ%1$s የተዘጋጀ ነው።"</item>
+        <item>" ማንቂያ ከአሁን ጀምሮ ለ%2$s የተዘጋጀ ነው።"</item>
+        <item>" ማንቂያ ከአሁን ጀምሮ ለ %1$s እና %2$s የተዘጋጀ ነው።"</item>
+        <item>ማንቂያ ከአሁን ጀምሮ ለ%3$s የተዘጋጀ ነው።</item>
+        <item>" ማንቂያ ከአሁን ጀምሮ ለ %1$s እና %3$s የተዘጋጀ ነው።"</item>
+        <item>" ማንቂያ ከአሁን ጀምሮ ለ %2$s እና %3$s የተዘጋጀ ነው።"</item>
+        <item>ይህ ማንቂያ ከአሁን ጀምሮ ለ%1$s%2$s%3$s የተዘጋጀ ነው።</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 ደቂቃዎች</item>
+        <item>10 ደቂቃዎች</item>
+        <item>15 ደቂቃዎች</item>
+        <item>20 ደቂቃዎች</item>
+        <item>25 ደቂቃዎች</item>
+        <item>30 ደቂቃዎች</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>ውጪ</item>
+        <item>5 ደቂቃዎች</item>
+        <item>10 ደቂቃዎች</item>
+        <item>15 ደቂቃዎች</item>
+        <item>20 ደቂቃዎች</item>
+        <item>25 ደቂቃዎች</item>
+        <item>30 ደቂቃዎች</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>የለም</item>
+        <item>አቆይ</item>
+        <item>እንቢበል</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

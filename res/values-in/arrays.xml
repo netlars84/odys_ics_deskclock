@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Alarm disetel untuk kurang dari 1 menit dari sekarang.</item>
+        <item>Alarm disetel untuk %1$s dari sekarang.</item>
+        <item>Alarm disetel untuk %2$s dari sekarang.</item>
+        <item>Alarm disetel untuk %1$s dan %2$s dari sekarang.</item>
+        <item>Alarm disetel untuk %3$s dari sekarang.</item>
+        <item>Alarm disetel untuk %1$s dan %3$s dari sekarang.</item>
+        <item>Alarm disetel untuk %2$s dan %3$s dari sekarang.</item>
+        <item>Alarm disetel untuk %1$s, %2$s, dan %3$s dari sekarang.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>15 menit</item>
+        <item>20 menit</item>
+        <item>25 menit</item>
+        <item>30 menit</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Mati</item>
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>15 menit</item>
+        <item>20 menit</item>
+        <item>25 menit</item>
+        <item>30 menit</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Tak Satu Pun</item>
+        <item>Tunda</item>
+        <item>Tolak</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

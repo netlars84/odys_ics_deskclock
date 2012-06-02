@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>I-alamu isethelwe iminithi elingaphansi ku-1 kusukela manje.</item>
+        <item>I-alamu isethelwe %1$s ukusuka manje.</item>
+        <item>I-alamu ihlelelwe angu-%2$s ukusuka manje.</item>
+        <item>I-alamu isethelwe %1$s %2$s ukusuka manje.</item>
+        <item>i-alamu isethelwe %3$s ukusuka manje.</item>
+        <item>I-Alamu isethelwe %1$s %3$s ukusuka manje.</item>
+        <item>I-alamu ihlelelwe u-%2$s kanye no-%3$s ukusuka manje.</item>
+        <item>I-alamu isethelwe %1$s, %2$s, %3$s kusuka manje.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 amaminithi</item>
+        <item>10 amaminithi</item>
+        <item>15 amaminithi</item>
+        <item>20 amaminithi</item>
+        <item>25 amaminithi</item>
+        <item>30 amaminithi</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Valiwe</item>
+        <item>5 amaminithi</item>
+        <item>10 amaminithi</item>
+        <item>15 amaminithi</item>
+        <item>20 amaminithi</item>
+        <item>25 amaminithi</item>
+        <item>30 amaminithi</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Lutho</item>
+        <item>Ukusnuza</item>
+        <item>Susa</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

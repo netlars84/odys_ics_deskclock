@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Kengele imewekwa chini ya dakika 1 kutoka sasa.</item>
+        <item>Kengele imewekwa ya %1$s kuanzia sasa.</item>
+        <item>Kengele imewekwa ya %2$s kuanzia sasa.</item>
+        <item>Kengele imewekwa ya %1$s na %2$s kuanzia sasa.</item>
+        <item>Kengele imewekwa kwa %3$s kuanzia sasa.</item>
+        <item>Kengele imewekwa ya %1$s na %3$s kuanzia sasa.</item>
+        <item>Kengele imewekwa ya %2$s na %3$s kuanzia sasa.</item>
+        <item>Kengele imewekwa ya %1$s , %2$s , na %3$s kuanzia sasa.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>Dakika 5</item>
+        <item>Dakika 10</item>
+        <item>Dakika 15</item>
+        <item>Dakika 20</item>
+        <item>Dakika 25</item>
+        <item>Dakika 30</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Zima</item>
+        <item>Dakika 5</item>
+        <item>Dakika 10</item>
+        <item>Dakika 15</item>
+        <item>Dakika 20</item>
+        <item>Dakika 25</item>
+        <item>Dakika 30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Hamna</item>
+        <item>Sinzia</item>
+        <item>Kataa</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

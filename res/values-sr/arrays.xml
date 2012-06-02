@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Аларм ће се укључити за мање од 1 минут.</item>
+        <item>Аларм ће се укључити за %1$s.</item>
+        <item>Аларм ће се укључити за %2$s.</item>
+        <item>Аларм ће се укључити за %1$s и %2$s.</item>
+        <item>Аларм ће се укључити за %3$s.</item>
+        <item>Аларм ће се укључити за %1$s и %3$s.</item>
+        <item>Аларм ће се укључити за %2$s и %3$s.</item>
+        <item>Аларм ће се укључити за %1$s, %2$s и %3$s.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 минута</item>
+        <item>10 минута</item>
+        <item>15 минута</item>
+        <item>20 минута</item>
+        <item>25 минута</item>
+        <item>30 минута</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Искључи</item>
+        <item>5 минута</item>
+        <item>10 минута</item>
+        <item>15 минута</item>
+        <item>20 минута</item>
+        <item>25 минута</item>
+        <item>30 минута</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Ништа</item>
+        <item>Одложи</item>
+        <item>Одбаци</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

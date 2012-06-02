@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="right" android:orientation="vertical" android:id="@id/time_date" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.deskclock.DigitalClock android:id="@id/time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/time_margin_bottom">
+        <com.android.deskclock.AndroidClockTextView android:textSize="@dimen/time_text_size" android:textColor="@color/time_text_color" android:ellipsize="none" android:gravity="left" android:id="@id/timeDisplay" android:paddingRight="@dimen/time_margin_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <com.android.deskclock.AndroidClockTextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/ampm_text_size" android:textColor="@color/ampm_text_color" android:ellipsize="none" android:gravity="bottom|left|center" android:id="@id/am_pm" android:paddingLeft="4.0dip" android:layout_width="@dimen/time_margin_right" android:layout_height="wrap_content" android:layout_marginTop="@dimen/ampm_margin_top" android:singleLine="true" android:layout_alignBaseline="@id/timeDisplay" android:layout_alignRight="@id/timeDisplay" useClockTypeface="false" />
+    </com.android.deskclock.DigitalClock>
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/date_text_size" android:textColor="@color/time_text_color" android:id="@id/date" android:paddingRight="@dimen/font_margin_adjust" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/time_margin_right" />
+</LinearLayout>

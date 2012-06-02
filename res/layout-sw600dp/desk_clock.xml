@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/window_touch" android:background="#00000000" android:visibility="visible" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/desk_clock" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/time_margin_top" android:layout_marginBottom="@dimen/time_margin_bottom" android:layout_centerInParent="true" android:layout_centerHorizontal="true" layout="@layout/desk_clock_time_date" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="4.0dip" android:layout_marginBottom="4.0dip" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" layout="@layout/desk_clock_battery" />
+    </RelativeLayout>
+    <View android:id="@id/window_tint" android:background="#cc000000" android:visibility="visible" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

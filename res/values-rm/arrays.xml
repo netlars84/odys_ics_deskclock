@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="snooze_duration_entries">
+        <item>5 minutas</item>
+        <item>10 minutas</item>
+        <item>15 minutas</item>
+        <item>20 minutas</item>
+        <item>25 minutas</item>
+        <item>30 minutas</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Nagin</item>
+        <item>Repeter</item>
+        <item>Serrar</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

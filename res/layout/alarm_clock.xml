@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/base_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/add_alarm" android:background="?android:listChoiceBackgroundIndicator" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight">
+        <ImageView android:gravity="center" android:duplicateParentState="true" android:src="@drawable/ic_menu_add" android:scaleType="center" style="@style/alarm_list_left_column" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="?android:textColorPrimary" android:layout_gravity="center_vertical" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_alarm" />
+    </LinearLayout>
+    <ImageView android:gravity="fill_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@android:drawable/divider_horizontal_dark" android:scaleType="fitXY" />
+    <ListView android:id="@id/alarms_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+</LinearLayout>

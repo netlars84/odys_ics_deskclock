@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Alarm gestel vir minder as 1 minuut van nou af.</item>
+        <item>Alarm gestel vir %1$s van nou af.</item>
+        <item>Alarm gestel vir %2$s van nou af.</item>
+        <item>Alarm gestel vir %1$s en %2$s van nou af.</item>
+        <item>Wekker gestel vir %3$s van nou af.</item>
+        <item>Alarm gestel vir %1$s en %3$s van nou af.</item>
+        <item>Alarm gestel vir %2$s en %3$s van nou af.</item>
+        <item>Alarm gestel vir %1$s, %2$sen %3$s van nou af.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 minute</item>
+        <item>25 minute</item>
+        <item>30 minute</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Af</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 minute</item>
+        <item>25 minute</item>
+        <item>30 minute</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Geen</item>
+        <item>Sluimer</item>
+        <item>Maak toe</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
