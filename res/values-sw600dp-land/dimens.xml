@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="time_text_size">305.0dip</dimen>
+    <dimen name="time_text_size">280.0dip</dimen>
     <dimen name="ampm_text_size">100.0dip</dimen>
     <dimen name="date_text_size">15.0sp</dimen>
     <dimen name="next_alarm_text_size">15.0sp</dimen>
